@@ -830,6 +830,14 @@ footer{
   }
 
 
+  @media screen and (min-width: 500px) and (max-width: 600px){
+  .descriptionDiv img{
+   width: 0.60rem;
+  }
+  }
+
+
+
 
 
 /* 
